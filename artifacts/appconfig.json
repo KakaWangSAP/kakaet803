@@ -1,0 +1,10 @@
+{
+  "name": "kaka-et-2",
+  "provider": "google",
+  "description": "kaka test in 803",
+  "version": "0.0.1",
+  "icon": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/reference_guide/cats_and_excessive_meowing_ref_guide/1800x1200_cats_and_excessive_meowing_ref_guide.jpg",
+  "dockerRegistry": "kakawangsap",
+  "helmChartVersion": "0.0.1",
+  "parameters": []
+}
